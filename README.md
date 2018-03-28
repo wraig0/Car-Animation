@@ -10,7 +10,8 @@ This is an application I am currently working on, progress so far:
 
 ### Current item
 Working on implementing the car controls, stuff like this code once working will be changed to attributes and methods of a car object.
-`public void changePos()
+```
+public void changePos()
     {
          if (currentImage == 1) // if pointing a direction, go that way 
          {
@@ -30,3 +31,5 @@ Working on implementing the car controls, stuff like this code once working will
              xPos = xPos + 2 * speedf; // displacement = distance * speed
 
          }
+```
+         
