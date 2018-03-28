@@ -161,95 +161,95 @@ public class CarAnimatorJPanel extends JPanel implements KeyListener
     
     public void changePos()
     {
-         if (currentImage == 1) // if pointing a direction, go that way with 
+         if (currentImage == 1) // if pointing a direction, go that way 
          {
              yPos = yPos + 2 * speedf; // displacement = distance * speed     up
          }
          
-         if (currentImage == 2) // if pointing a direction, go that way with 
+         if (currentImage == 2) // if pointing a direction, go that way 
          {
              yPos = yPos + 2 * speedf; // displacement = distance * speed
              xPos = xPos + 1 * speedf; // displacement = distance * speed
 
          }
          
-         if (currentImage == 3) // if pointing a direction, go that way with 
+         if (currentImage == 3) // if pointing a direction, go that way 
          {
              yPos = yPos + 2 * speedf; // displacement = distance * speed
              xPos = xPos + 2 * speedf; // displacement = distance * speed
 
          }
          
-         if (currentImage == 4) // if pointing a direction, go that way with 
+         if (currentImage == 4) // if pointing a direction, go that way 
          {
              yPos = yPos + 1 * speedf; // displacement = distance * speed
              xPos = xPos + 2 * speedf; // displacement = distance * speed
          }
          
-         if (currentImage == 5) // if pointing a direction, go that way with 
+         if (currentImage == 5) // if pointing a direction, go that way 
          {
              xPos = xPos + 2 * speedf; // displacement = distance * speed     right
          }
          
-         if (currentImage == 6) // if pointing a direction, go that way with 
+         if (currentImage == 6) // if pointing a direction, go that way 
          {
              yPos = yPos - 1 * speedf; // displacement = distance * speed
              xPos = xPos + 2 * speedf; // displacement = distance * speed
          }
          
-         if (currentImage == 7) // if pointing a direction, go that way with 
+         if (currentImage == 7) // if pointing a direction, go that way 
          {
              yPos = yPos - 2 * speedf; // displacement = distance * speed
              xPos = xPos + 2 * speedf; // displacement = distance * speed
          }
          
-         if (currentImage == 8) // if pointing a direction, go that way with 
+         if (currentImage == 8) // if pointing a direction, go that way 
          {
              yPos = yPos - 2 * speedf; // displacement = distance * speed
              xPos = xPos + 1 * speedf; // displacement = distance * speed
          }
          
-         if (currentImage == 9) // if pointing a direction, go that way with 
+         if (currentImage == 9) // if pointing a direction, go that way 
          {
              yPos = yPos - 2 * speedf; // displacement = distance * speed        down   
          }
          
-         if (currentImage == 10) // if pointing a direction, go that way with 
+         if (currentImage == 10) // if pointing a direction, go that way 
          {
              yPos = yPos - 2 * speedf; // displacement = distance * speed
              xPos = xPos - 1 * speedf; // displacement = distance * speed
          }
          
-         if (currentImage == 11) // if pointing a direction, go that way with 
+         if (currentImage == 11) // if pointing a direction, go that way 
          {
              yPos = yPos - 2 * speedf; // displacement = distance * speed
              xPos = xPos - 2 * speedf; // displacement = distance * speed
          }
          
-         if (currentImage == 12) // if pointing a direction, go that way with 
+         if (currentImage == 12) // if pointing a direction, go that way 
          {
              yPos = yPos - 1 * speedf; // displacement = distance * speed
              xPos = xPos - 2 * speedf; // displacement = distance * speed
          }
          
-         if (currentImage == 13) // if pointing a direction, go that way with 
+         if (currentImage == 13) // if pointing a direction, go that way 
          {
              xPos = xPos - 2 * speedf; // displacement = distance * speed     left
          }
          
-         if (currentImage == 14) // if pointing a direction, go that way with 
+         if (currentImage == 14) // if pointing a direction, go that way 
          {
              yPos = yPos + 1 * speedf; // displacement = distance * speed
              xPos = xPos - 2 * speedf; // displacement = distance * speed
          }
          
-         if (currentImage == 15) // if pointing a direction, go that way with 
+         if (currentImage == 15) // if pointing a direction, go that way 
          {
              yPos = yPos + 2 * speedf; // displacement = distance * speed
              xPos = xPos - 2 * speedf; // displacement = distance * speed
          }
          
-         if (currentImage == 0) // if pointing a direction, go that way with 
+         if (currentImage == 0) // if pointing a direction, go that way 
          {
              yPos = yPos + 2 * speedf; // displacement = distance * speed
              xPos = xPos - 1 * speedf; // displacement = distance * speed
