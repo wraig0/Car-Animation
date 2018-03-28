@@ -9,7 +9,7 @@ This is an application I am currently working on, progress so far:
 - [ ] implement cross network play
 
 ### Current item
-Working on implementing the car controls, stuff like this code once working will be changed to attributes and methods of a car object.
+Working on implementing the car controls, stuff like this code once working will be changed to car class variables and methods.
 ```
 public void changePos()
     {
