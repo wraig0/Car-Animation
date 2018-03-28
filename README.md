@@ -30,4 +30,3 @@ Working on implementing the car controls, stuff like this code once working will
              xPos = xPos + 2 * speedf; // displacement = distance * speed
 
          }
- `
