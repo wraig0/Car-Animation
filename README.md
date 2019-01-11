@@ -5,7 +5,7 @@ Java application, simulating a car race.
 This is an application I am currently working on, progress so far:
 - [x] implement car as array of images
 - [x] implement race track
-- [ ] implement controls
+- [x] implement controls
 - [ ] implement cross network play
 
 ### Current item
